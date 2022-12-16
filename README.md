@@ -1,0 +1,2 @@
+# psychic
+Task of "Scripting"
